@@ -1,0 +1,1 @@
+print("GitHub Actions is running the upload_test.py script.")
